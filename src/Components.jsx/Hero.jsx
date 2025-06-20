@@ -3,7 +3,7 @@ import React from 'react'
 function Hero() {
   return (
 <>
-    <section className="bg-[url('/Images/1.jpg')] bg-cover bg-center md:h-screen md:pl-20 pr-20">
+    <section className="bg-[url('/Images/1.jpg')] bg-cover bg-center md:h-screen md:px-20">
     {/* h screen matlabb lambaui men is div ki lamabai pori hogi 100% */}
       <div className="container mx-auto flex justify-center">
         <div className="flex flex-col lg:flex-row pt-4 lg:pt-24 w-full px-4">
@@ -20,7 +20,7 @@ function Hero() {
             </p>
             <a
               href="#contact"
-              className="bg-green-900 hover:bg-green-600 text-white font-bold py-4 px-9 rounded-full w-max"
+              className="bg-green-900 hover:bg-green-600 text-white font-bold py-4 px-9 mb-4 rounded-full w-max"
             >
               Contact Us
             </a>
