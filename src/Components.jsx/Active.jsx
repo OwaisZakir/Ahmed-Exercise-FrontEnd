@@ -103,7 +103,7 @@ function Active() {
                 </p>
                 <a
                   href=""
-                  className="  hover:bg-white hover:text-black text-white font-bold  py-3 px-6 rounded-full w-max border bg-orange-400 "
+                  className="  hover:bg-white hover:text-black text-white font-bold  py-3 px-6 rounded-full w-max border bg-orange-400"
                 >
                   Read More
                 </a>
